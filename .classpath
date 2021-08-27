@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/AMON HCV/Desktop/jcalendar-1.4.jar.zip"/>
+	<classpathentry kind="lib" path="C:/Users/AMON HCV/Desktop/com.mysql.jdbc_5.1.5.jar.zip"/>
+	<classpathentry kind="lib" path="C:/Users/AMON HCV/Downloads/rs2xml.zip"/>
+	<classpathentry kind="lib" path="C:/Users/AMON HCV/Desktop/mysql-connector-java-8.0.19.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
